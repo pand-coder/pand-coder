@@ -43,6 +43,4 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 </p>
-k" alt="pand-coder" />
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pand-coder&theme=dark" alt="pand-coder" /></p>
