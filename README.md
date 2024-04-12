@@ -29,6 +29,7 @@
   </a>
   <a href="https://linkedin.com/in/pavan%20shanmukha%20madhav%20gunda" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pavan shanmukha madhav gunda" height="30" width="40" />
+  <a href="https://app.daily.dev/pavan_shanxm"><img src="https://api.daily.dev/devcards/v2/XQ4AaKIwZj1YY8qeA2RR1.png?type=default&r=ed9" width="356" alt="Pavan Shanmukha Madhav's Dev Card"/></a>
   </a>
 </p>
 
