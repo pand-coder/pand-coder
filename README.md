@@ -22,8 +22,8 @@
   </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/@pavanshanmukh3" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@pavanshanmukh3" height="30" width="40" />
   </a>
@@ -32,8 +32,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
@@ -44,4 +44,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 </p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pand-coder&theme=dark" alt="pand-coder" /></p>
+<h3 align="center">
+  Developer news hub
 <a href="https://app.daily.dev/pavan_shanxm"><img src="https://api.daily.dev/devcards/v2/XQ4AaKIwZj1YY8qeA2RR1.png?type=default&r=ed9" width="356" alt="Pavan Shanmukha Madhav's Dev Card"/></a>
+</h3>
