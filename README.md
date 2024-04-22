@@ -45,6 +45,13 @@
                 font-size: 24px;
             }
         }
+        .terminal {
+            background-color: black;
+            color: green;
+            font-family: monospace;
+            padding: 10px;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -102,4 +109,11 @@
     </div>
 
     <div class="section">
-        <p><img align="center" src="https://github-readme-
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pand-coder&show_icons=true&locale=en" alt="pand-coder" /></p>
+    </div>
+
+    <div class="section">
+        <p align="center">Made with ❤️ by Pavan Shanmukha Madhav</p>
+    </div>
+</body>
+</html>
