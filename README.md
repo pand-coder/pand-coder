@@ -10,47 +10,21 @@
             font-family: monospace;
             padding: 20px;
         }
-        h1, h3 {
-            display: inline-block;
-            overflow: hidden;
-            white-space: nowrap;
-            border-right: 2px solid green;
-            animation: typing 1s steps(20) infinite;
-            margin: 20px 0;
-        }
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        a {
-            color: green;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        @media (max-width: 600px) {
-            h1, h3 {
-                font-size: 24px;
-            }
-        }
         .terminal {
             background-color: black;
             color: green;
             font-family: monospace;
             padding: 10px;
             border-radius: 5px;
+        }
+        .command {
+            color: #56B6C2;
+        }
+        .output {
+            color: #00FF00;
+        }
+        .prompt {
+            color: #56B6C2;
         }
     </style>
 </head>
@@ -63,16 +37,10 @@
     </div>
 
     <div class="section">
-        <ul>
-            <li>🔭 I'm currently working on <strong>Stegosaraus</strong></li>
-            <li>🌱 I'm currently learning <strong>Data Structures and Algorithms, and Java</strong></li>
-            <li>👯 I'm looking to collaborate on <strong>Fullstack projects</strong></li>
-            <li>🤝 I'm looking for help with <strong>Java Springboot</strong></li>
-            <li>👨‍💻 All of my projects are available at <a href="https://github.com/pand-coder" target="_blank">https://github.com/pand-coder</a></li>
-            <li>📝 I regularly write articles on <a href="https://medium.com/@pavanshanmukhmadhav" target="_blank">https://medium.com/@pavanshanmukhmadhav</a></li>
-            <li>💬 Ask me about <strong>html, css, JS, c, c++, Java and linux</strong></li>
-            <li>📫 How to reach me <strong>pavanshanmukhmadhav@gmail.com</strong></li>
-        </ul>
+        <div class="terminal">
+            <span class="prompt">~$</span> <span class="command">echo "Hello, World!"</span><br>
+            <span class="output">Hello, World!</span>
+        </div>
     </div>
 
     <div class="section">
