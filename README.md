@@ -1,36 +1,27 @@
-<h1 align="center">Hi ☀, I Am Pavan Shanmukha Madhav Gunda</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+# 💫 About Me:
+Hi ☀, I’m Pavan Shanmukha Madhav Gunda—a passionate <br>Software Developer and Cybersecurity Undergraduate from India<br><br>🔭 I’m currently working on Cybersecurity projects and <br><br>🌱 I’m currently exploring security aspects of software development <br><br>👯 I’m looking to collaborate on Fullstack projects and Cybersecurity Projects <br><br>👨‍💻 All of my projects are available at https://github.com/pand-coder<br><br>📝 I regularly write articles on https://medium.com/@pavanshanmukhmadhav<br><br>🤝 💬 Ask me about c,c++,linux and cybersecurity<br><br>📫 How to reach me pavanshanmukhmadhav@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pand-coder&label=Profile%20views&color=0e75b6&style=flat" alt="pand-coder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pavanshanmukh3" target="blank"><img src="https://img.shields.io/twitter/follow/pavanshanmukh3?logo=twitter&style=for-the-badge" alt="pavanshanmukh3" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-shanmukha-madhav-gunda-45031b252/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pavanshanmukhmadhav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/pavanshanmukh3) 
 
-- 🔭 I’m currently working on *Stegosaraus*
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pand-coder&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pand-coder&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pand-coder&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning *Data Structures and Algorithms, and Java*
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pand-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 👯 I’m looking to collaborate on *Fullstack projects*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 🤝 I’m looking for help with *Java Springboot*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pand-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pand-coder](https://github.com/pand-coder)
+---
+[![](https://visitcount.itsvg.in/api?id=pand-coder&icon=5&color=10)](https://visitcount.itsvg.in)
 
-- 📝 I regularly write articles on [https://medium.com/@pavanshanmukhmadhav](https://medium.com/@pavanshanmukhmadhav)
-
-- 💬 Ask me about *html,css,JS,c,c++,Java and linux*
-
-- 📫 How to reach me *pavanshanmukhmadhav@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pavanshanmukh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavanshanmukh3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pavan shanmukha madhav gunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan shanmukha madhav gunda" height="30" width="40" /></a>
-<a href="https://medium.com/@pavanshanmukhmadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pavanshanmukhmadhav" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pand-coder&show_icons=true&locale=en&layout=compact" alt="pand-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pand-coder&" alt="pand-coder" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
