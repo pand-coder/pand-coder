@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ☀, I’m Pavan Shanmukha Madhav Gunda—a passionate <br>Software Developer and Cybersecurity Undergraduate from India<br><br>🔭 I’m currently working on Cybersecurity projects and <br><br>🌱 I’m currently exploring security aspects of software development <br><br>👯 I’m looking to collaborate on Fullstack projects and Cybersecurity Projects <br><br>👨‍💻 All of my projects are available at https://github.com/pand-coder<br><br>📝 I regularly write articles on https://medium.com/@pavanshanmukhmadhav<br><br>🤝 💬 Ask me about c,c++,linux and cybersecurity<br><br>📫 How to reach me pavanshanmukhmadhav@gmail.com
+Hi ☀, I’m Pavan Shanmukha Madhav Gunda a passionate <br>Software Developer and Cybersecurity Undergraduate from India<br><br>🔭 I’m currently working on Cybersecurity projects and <br><br>🌱 I’m currently exploring security aspects of software development <br><br>👯 I’m looking to collaborate on Fullstack projects and Cybersecurity Projects <br><br>👨‍💻 All of my projects are available at https://github.com/pand-coder<br><br>📝 I regularly write articles on https://medium.com/@pavanshanmukhmadhav<br><br>🤝 💬 Ask me about c,c++,linux and cybersecurity<br><br>📫 How to reach me pavanshanmukhmadhav@gmail.com
 
 
 ## 🌐 Socials:
