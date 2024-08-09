@@ -34,4 +34,7 @@ Hi ☀, I’m Pavan Shanmukha Madhav Gunda a passionate <br>Software Developer a
 ---
 [![](https://visitcount.itsvg.in/api?id=pand-coder&icon=5&color=10)](https://visitcount.itsvg.in)
 
+
+[![pand-coder's GitHub | Topics Over Time](https://stats.quira.sh/pand-coder/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pand-coder)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
