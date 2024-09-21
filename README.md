@@ -25,6 +25,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
+<br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pavan_shanmukha_madhav?theme=dark&font=Ubuntu)
 
