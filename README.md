@@ -24,7 +24,6 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  [![An image of @cuscuta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cuscuta)](https://holopin.io/@cuscuta)
 </div>
 <br>
 
