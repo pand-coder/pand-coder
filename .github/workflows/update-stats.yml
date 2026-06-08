@@ -2,8 +2,8 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # allow manual trigger
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 3        # hard kill after 3 min — never hang again
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,12 +25,16 @@ jobs:
       - name: Install deps
         run: npm install node-fetch cheerio
 
+      - name: Write package.json (ESM)
+        run: echo '{"type":"module"}' > package.json
+
       - name: Fetch stats & update README
         run: node .github/scripts/update-stats.js
         env:
           LEETCODE_USERNAME: Pavan_Shanxm49
           GFG_USERNAME: pavanshanmrech
           THM_USERNAME: Shanxm
+          PS_KNOWN_RANK: "37190"    # update this manually when rank changes
 
       - name: Commit updated README
         run: |
