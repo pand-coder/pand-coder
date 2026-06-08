@@ -1,0 +1,39 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm install node-fetch cheerio
+
+      - name: Fetch stats & update README
+        run: node .github/scripts/update-stats.js
+        env:
+          LEETCODE_USERNAME: Pavan_Shanxm49
+          GFG_USERNAME: pavanshanmrech
+          THM_USERNAME: Shanxm
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto-update stats [skip ci]"
+          git push
