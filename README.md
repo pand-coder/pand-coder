@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🔐 Companies Secured
+## 🔐 Companies & Institutions Secured
 
 | Company | Status |
 |:---|:---:|
