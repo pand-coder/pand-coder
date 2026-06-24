@@ -7,6 +7,7 @@
 | Company | Status |
 |:---|:---:|
 | Cognizant | ✅ Secured |
+| GeeksforGeeks | ✅ Secured |
 | Amrita University | ✅ Secured |
 | Havelock | ✅ Secured |
 | Talentd | ✅ Secured |
