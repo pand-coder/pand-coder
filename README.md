@@ -2,22 +2,11 @@
 
 <div align="center">
 
-## 🔐 Companies & Institutions Secured
+![profile card](./assets/profile-card.svg)
 
-| Company | Status |
-|:---|:---:|
-| Cognizant | ✅ Secured |
-| GeeksforGeeks | ✅ Secured |
-| Amrita University | ✅ Secured |
-| Havelock | ✅ Secured |
-| Talentd | ✅ Secured |
-| Retro | ✅ Secured |
-| Geethanjali College of Engineering & Technology | ✅ Secured |
-| Plotly | ✅ Secured |
-| Nike | 🟡 Duplicate |
-| Dell | 🟡 Duplicate |
+</div>
 
----
+<div align="center">
 
 *"Making the internet safer, one responsible disclosure at a time."*
 
