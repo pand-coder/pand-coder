@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![profile card](./assets/profile-card.svg)
+![profile card](./profile-card.svg)
 
 </div>
 
